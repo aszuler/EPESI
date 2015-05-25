@@ -1,18 +1,19 @@
 ---
 #
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
+# EPESI - free open source CRM
+### Move your business to the next level of efficiency!
+
 #
 layout: frontpage
-title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
-header:
-   image_fullwidth: "header_unsplash_12.jpg"
+title: "EPESI - free open source CRM and PHP/Ajax framework"
+header: EPESI CRM
+   image_fullwidth: "happyguys.jpg"
 widget-1:
     title: "Blog & Portfolio"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-    image: unsplash_9-302x182.jpg
+    text: 'EPESI is a fully functional and completely free web-based application dedicated for any company. It is a very useful tool with multiple features that allows you to organize, process and store information in your business in a way that allows easy sharing, access and control records between people within your organization. It allows you to manage your data precisely, flexibly and easily, simplifying internal communication and making workflow more efficient.
+'
+    image: tunnel_m.jpg
 widget-2:
     title: "Why use this theme?"
     url: 'http://phlow.github.io/feeling-responsive/info/'
@@ -25,7 +26,7 @@ widget-3:
     image: github-303x182.jpg
 ---
 
-
+test
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
