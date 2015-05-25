@@ -1,32 +1,47 @@
 ---
-#
+
 # EPESI - free open source CRM
 ### Move your business to the next level of efficiency!
 
-#
 layout: frontpage
 title: "EPESI - free open source CRM and PHP/Ajax framework"
-header: EPESI CRM
+header:
    image_fullwidth: "happyguys.jpg"
 widget-1:
-    title: "Blog & Portfolio"
-    url: 'http://phlow.github.io/feeling-responsive/blog/'
-    text: 'EPESI is a fully functional and completely free web-based application dedicated for any company. It is a very useful tool with multiple features that allows you to organize, process and store information in your business in a way that allows easy sharing, access and control records between people within your organization. It allows you to manage your data precisely, flexibly and easily, simplifying internal communication and making workflow more efficient.
-'
+    title: "What is EPESI?"
+    url: 'http://http://epesi.pl/free-crm'
+    text: '<em>EPESI</em> is a fully functional and completely free web-based application dedicated for any company. It is a very useful tool with multiple features that allows you to organize, process and store information in your business in a way that allows easy sharing, access and control records between people within your organization. It allows you to manage your data precisely, flexibly and easily, simplifying internal communication and making workflow more efficient.'
     image: tunnel_m.jpg
-widget-2:
-    title: "Why use this theme?"
-    url: 'http://phlow.github.io/feeling-responsive/info/'
-    text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br>4. Seven different Headers.<br>5. Customizable navigation, footer,...'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
-widget-3:
-    title: "Download Theme"
-    url: 'https://github.com/Phlow/feeling-responsive'
-    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
-    image: github-303x182.jpg
----
 
-test
+
+widget-2:
+    title: "Apps in EPESI"
+    url: 'http://http://epesi.pl/free-crm'
+    text: 'The standard features of EPESI CRM:<br> 
+- shared calendar,<br> 
+- tasks and address book,<br> 
+- an integrated e-mail client (Roundcube), <br>
+as well as a unique solutions like: <br>
+- advanced permission system, <br>
+- easy form filling (Click2Fill), <br>
+- record change tracking (Watchdog), <br>
+- full record history.<br><br>
+There are also many extension apps in EPESI offer that deal with more specific needs of different types of business activities. Thanks to modular design the functionalities of the basic CRM applications can be easily modified and extended. Both free and paid apps can be obtained through EPESI Store.<br><br>
+Example of Premium paid apps: <br>
+- List Manager, <br>
+- Campaign Manager, <br>
+- Inventory Management System, <br>
+- E-Commerce.<br>
+ <a href="http://epesi.pl/contact">More info about premium apps</a>.'
+    image: dashboard_m.jpg
+
+widget-3:
+    title: "Why to use EPESI?"
+    url: 'http://http://epesi.pl/free-crm'
+    text: 'Advantages and benefits of EPESI CRM:<br>1. free web based application – no installation and no fee required;<br>2. ready to use after simple setup;<br>3. easy customization and easy to use (user-friendly);<br>4. all data stored at one place – no need to use emails nor search for files in cabinets;<br>5. secure, organized and prioritized internal communication;<br>6. shortly speaking: saves your time and money.'
+    image: money_m.jpg
+
+---
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>

@@ -34,7 +34,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://aszuler.github.io/EPESI/images/"
+urlimg: "http://aszuler.github.io/EPESI/images"
 
 
 # Logo size is 600x80 pixels
@@ -52,7 +52,7 @@ paginate_path: "blog/page:num"
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
 permalink: /:categories/:title/
-highlight: pygments
+highlighter: rouge
 excerpt_separator: "\n\n"
 exclude: []
 include: ['.htaccess']
