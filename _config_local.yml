@@ -6,4 +6,5 @@
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
 url: "http://localhost"
-urlimg: "http://localhost/images/"
+urlimg: "http://localhost/images"
+highlighter: rouge
