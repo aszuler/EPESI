@@ -21,7 +21,7 @@ format: blog-index
         <a href="{{ page.widget-1.url }}">{% if page.widget-1.image %}<img src="{{ site.urlimg }}/{{ page.widget-1.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-1.video %}{{ page.widget-1.video }}{% endif %}</a>
         <h2 class="font-size-h3 t10">{{ page.widget-1.title }}</h2>
         <p>{{ page.widget-1.text }}</p>
-        <p><a class="button tiny radius" href="{{ page.widget-1.url }}">{{ site.data.language.more }}</a></p>
+        <p><a class="button tiny radius" href="{{ page.widget-1.url }}">{{ page.widget-1.button_text }}</a></p>
     </div><!-- /.medium-4.columns -->
     {% endif %}
 
