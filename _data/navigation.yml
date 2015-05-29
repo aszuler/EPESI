@@ -1,11 +1,9 @@
 - title: Free CRM
   url: "/free-crm/"
   side: left
-#  dropdown:
-#  - title: "Free modules"
-#    url: "/free-modules/"
-#  - title: "Free premium modules"
-#    url: "/free-premium-modules/"
+  dropdown:
+  - title: "Home page"
+    url: "//"
 
 - title: Demo
   url: "/demo/"
@@ -30,31 +28,30 @@
   - title: "Premium support"
     url: "/premium-support/"
 
-- title: inne
-  url: "/inne/"
-  side: left
-  dropdown:
-  - title: changelog
-    url: "/changelog/"
-  - title: contact
-    url: "/contact/"
-  - title: design
-    url: "/design/"
-  - title: documentation
-    url: "/documentation/"
-  - title: getting-started
-    url: "/getting-started/"
-  - title: headers
-    url: "/headers/"
-  - title: info
-    url: "/info/"
-  - title: redirected_page
-    url: "/redirected_page/"
-  - title: roadmap
-    url: "/roadmap/"
-  - title: search
-    url: "/search/"
-
+#- title: inne
+#  url: "/inne/"
+#  side: left
+#  dropdown:
+#  - title: changelog
+#    url: "/changelog/"
+#  - title: contact
+#    url: "/contact/"
+#  - title: design
+#    url: "/design/"
+#  - title: documentation
+#    url: "/documentation/"
+#  - title: getting-started
+#    url: "/getting-started/"
+#  - title: headers
+#    url: "/headers/"
+#  - title: info
+#    url: "/info/"
+#  - title: redirected_page
+#    url: "/redirected_page/"
+#  - title: roadmap
+#    url: "/roadmap/"
+#  - title: search
+#    url: "/search/"
 
 - title: "Search"
   url: "http://epesi.pl/search/node/"

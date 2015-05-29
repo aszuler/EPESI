@@ -93,7 +93,7 @@ Start your [30 day free trial][4] now, so you can test it before paying - no cre
 ----------
 
 
-## *Get EPESI for free and just use it! >>*
+## *Get EPESI for free and increase the productivity in your company! >>*
 
 
  [1]: http://www.softaculous.com

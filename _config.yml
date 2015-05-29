@@ -16,8 +16,8 @@ slogan: "EPESI - one of the best free open source CRMs"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»EPESI« as a free open source application is one of the most sofisticated multiuser solutions for managing business information like CRM, ERP, BIM."
-
+description: "»EPESI« - a free open source application and one of the most sofisticated multiuser solutions for managing business information like CRM, ERP, BIM."
+description_link: "/free-crm/"
 
 # This URL is the main adresse. Don't include a slash at the end.
 #

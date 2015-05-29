@@ -9,7 +9,6 @@ header:
 ---
 
 
-Only *EPESI* can increase the productivity in your company.  
 Take a look at some screens to see the design.
 
 
@@ -21,6 +20,14 @@ Take a look at some screens to see the design.
 
 ![Contacts]({{site.urlimg}}/screenshots/records_browsing.png)
 
+
+----------
+
+**Watch one of EPESI tutorials**
+
+<div class="flex-video"><iframe src="https://www.youtube.com/embed/FR4mQsHUNCY" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+
+[More videos about EPESI](https://www.youtube.com/user/epesivideos) >> 
 
 ----------
 
