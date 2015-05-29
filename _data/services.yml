@@ -2,15 +2,16 @@
 
 - name: "Contact"
   url: "/contact/"
-  class: "services-contact"
-  title: "Contact"
+  title: "Contact us"
 
-- name: "RSS"
-  url: "/feed.xml"
-  class: "rss-link"
-  title: "Subscribe to RSS"
+- name: "Forum EPESI"
+  url: "http://forum.epesibim.com"
+  title: "Forum EPESI - free help"
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  class: "sitemap-link"
-  title: "Sitemap for Google Webmastertools"
+- name: "Trial version of EPESI"
+  url: "https://trial.epesicrm.com/hosting/"
+  title: "Start your own trial version of EPESI!"
+
+- name: "Support"
+  url: "/support/"
+  title: "How to obtain paid help and assistance"  

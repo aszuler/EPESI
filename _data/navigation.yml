@@ -1,11 +1,11 @@
 - title: Free CRM
   url: "/free-crm/"
   side: left
-  dropdown:
-  - title: "Free modules"
-    url: "/free-modules/"
-  - title: "Free premium modules"
-    url: "/free-premium-modules/"
+#  dropdown:
+#  - title: "Free modules"
+#    url: "/free-modules/"
+#  - title: "Free premium modules"
+#    url: "/free-premium-modules/"
 
 - title: Demo
   url: "/demo/"
@@ -18,10 +18,8 @@
   url: "/getit/"
   side: left
   dropdown:
-  - title: "Free (Do-It-Yourself)"
-    url: "/free/"
-  - title: "Fee based"
-    url: "/fee-based/"
+  - title: "Hosting"
+    url: "/hosting/"
 
 - title: Support
   url: "/support/"

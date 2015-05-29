@@ -20,3 +20,8 @@ Take a look at some screens to see the design.
 ![Calendar]({{site.urlimg}}/screenshots/calendar.png)
 
 ![Contacts]({{site.urlimg}}/screenshots/records_browsing.png)
+
+
+----------
+
+##*Start working efficiently with EPESI! >>*

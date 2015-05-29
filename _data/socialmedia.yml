@@ -1,44 +1,39 @@
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: https://www.youtube.com/user/epesivideos
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
-
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Videos of EPESI on YouTube"
 
 - name: Facebook
-  url: http://www.facebook.com/phlow.media
+  url: https://www.facebook.com/epesi.crm
   class: icon-facebook
-  title: "Lass uns Freunde sein!"
-
-- name: Soundcloud
-  url: http://soundcloud.com/phlow
-  class: icon-soundcloud
-  title: "Sounds und Downloads und mehr"
+  title: "Profile of EPESI on Facebook"
+  
+- name: Google+
+  url: https://plus.google.com/+epesiCRM/
+  class: icon-globe
+  title: "Profile of EPESI on Google+"
+  
+- name: Twitter
+  url: https://twitter.com/epesibim
+  class: icon-twitter
+  title: "Follow EPESI on Twitter"
+  
+- name: RSS
+  url: http://epe.si/rss.xml
+  class: icon-rss
+  title: "Follow EPESI on RSS"
 
 - name: GitHub
-  url: http://github.com/phlow
+  url: https://github.com/Telaxus/epesi
   class: icon-github
-  title: Code und mehr...
+  title: "Repository of EPESI on GitHub"  
 
-- name: Instagram
-  url: http://instagram.com/phlowmedia
-  class: icon-instagram
-  title: "Bilder und Impressionen mit und ohne Filter..."
-
-- name: Pinterest
-  url: http://www.pinterest.com/phlowmedia/
-  class: icon-pinterest
-  title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
-
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
-
-# - name: Xing
-#   url: https://www.xing.com/profile/Moritzmo_Sauer
-#   class: icon-xing
-#   title: Xing Profil
+- name: Website
+  url: http://www.telaxus.com/
+  class: icon-browser
+  title: "Oficial website of producer of EPESI"
+  
+#- name: Pinterest
+#  url: http://www.pinterest.com/phlowmedia/
+#  class: icon-pinterest
+#  title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."

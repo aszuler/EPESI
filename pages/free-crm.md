@@ -36,7 +36,6 @@ EPESI CRM has many advantages that are desired by companies. It allows storing d
 
 ## EPESI CRM free premium apps:
 
-* Dashboard – control panel
 * Sales Opportunity
 * Projects & Tickets
 * Payments processing
@@ -45,6 +44,9 @@ EPESI CRM has many advantages that are desired by companies. It allows storing d
 * Data synchronization engine
 * Contact & Company Import
 
+----------
+
+##*Get more info about EPESI! >>*
 
 
  [1]: http://roundcube.net/

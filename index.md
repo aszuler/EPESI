@@ -14,17 +14,17 @@ widget-1:
 
 
 widget-2:
-    title: "Apps in EPESI"
+    title: "How does EPESI work?"
     url: 'http://http://epesi.pl/free-crm'
-    text: 'The standard features of EPESI CRM:  
-			* shared calendar<br> 
-			* tasks and address book,<br> 
-			* an integrated e-mail client (Roundcube), <br>
+    text: 'The standard features of EPESI CRM: <br>
+			- shared calendar<br> 
+			- tasks and address book,<br> 
+			- an integrated e-mail client (Roundcube), <br>
 			Unique solutions: <br>
-			* advanced permission system, <br>
-			* easy form filling (Click2Fill), <br>
-			* record change tracking (Watchdog), <br>
-			* full record history.<br><br>
+			- advanced permission system, <br>
+			- easy form filling (Click2Fill), <br>
+			- record change tracking (Watchdog), <br>
+			- full record history.<br><br>
 			There are also many extension apps in EPESI offer that deal with more specific needs of different types of business activities. Thanks to modular design the functionalities of the basic CRM applications can be easily modified and extended. Both free and paid apps can be obtained through EPESI Store.<br><br>
 			Example of Premium paid apps: <br>
 			- List Manager, <br>
@@ -45,6 +45,6 @@ widget-3:
 ----------
 
 
-## Move your business to the next level of efficiency!
+### Move your business to the next level of efficiency!
 
-## Use EPESI - free open source CRM and PHP/Ajax framework!
+### Use EPESI - free open source CRM and PHP/Ajax framework!
