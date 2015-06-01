@@ -10,7 +10,7 @@ widget-1:
     url: 'http://epesi.pl/free-crm'
     text: '<em>EPESI</em> is a fully functional and completely free web-based application dedicated for any company. It is a very useful tool with multiple features that allows you to organize, process and store information in your business in a way that allows easy sharing, access and control records between people within your organization. It allows you to manage your data precisely, flexibly and easily, simplifying internal communication and making workflow more efficient.'
     image: tunnel_m.jpg
-    button_text: 'More >'
+    button_text: 'More ›'
 
 
 widget-2:
@@ -43,6 +43,6 @@ widget-3:
 ---
 ----------
 
-### Move your business to the next level of efficiency!
+### Move your business to the next level of efficiency! >>...
 
-### Use EPESI - free open source CRM and PHP/Ajax framework!
+### Use free open source CRM system! Use EPESI! >>...

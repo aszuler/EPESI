@@ -26,7 +26,7 @@ To use EPESI you need a computer with Internet connection and a web browser, whi
 You don’t need to do anything special to configure your client/browser. In fact, if you are reading this it means that you already have fully configured browser with working Internet access. There are many browsers available for many operating systems and EPESI works very well on almost all of them.
 
 **It has been tested and used on:**  
-- Windows operating systems (XP, 7/8 etc.)  
+- Windows operating systems (XP, Vista, 7, 8 etc.)  
 - Apple OS X, iOS  
 - Linux  
 as well as tablets running iOS and Android OS.
@@ -64,7 +64,7 @@ An experienced administrator can install EPESI using shell.
  
 If you don’t have your own web server then the simplest approach is to use our hosting plan. Using an automated setup wizard we will configure it for you and you will be running EPESI in no time. All you need is a valid e-mail address under which you will register your own instance. The hosting plan comes with free 30-day trial.
 
-The cost is $30 USD per month (or $25.50 USD if you buy subscription for whole year). Read more about hosting plans [here][2].
+The cost is 30 USD per month (or even 25 USD if you buy subscription for whole year). Read more about our hosting and hosting plans [here][2].
 
 
 ####3. Complex Implementation with Premium Support for Enterprises
@@ -88,7 +88,7 @@ Start your [30 day free trial][4] now, so you can test it before paying - no cre
 
 ----------
 **Quick links:**  
-| [Hosting Plans][5] | [Hosting Manual][6] | [Hosting FAQ][7] |
+| [Hosting][2] | [Hosting Manual][5] | [Hosting FAQ][6] |
 
 ----------
 
@@ -100,6 +100,5 @@ Start your [30 day free trial][4] now, so you can test it before paying - no cre
  [2]: /hosting/
  [3]: /contact/
  [4]: https://trial.epesicrm.com/hosting/
- [5]: /hosting-plans/
- [6]: /hosting-manual/
- [7]: /hosting-faq/
+ [5]: /hosting-manual/
+ [6]: /hosting-faq/
